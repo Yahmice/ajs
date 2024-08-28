@@ -1,0 +1,19 @@
+{
+  "name": "@yahmice/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yahmice/ajs.git"
+  },
+  "author": "Svvift",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yahmice/ajs/issues"
+  },
+  "homepage": "https://github.com/Yahmice/ajs#readme",
+  "description": ""
+}
